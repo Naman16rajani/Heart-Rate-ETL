@@ -13,8 +13,7 @@
   - [Orchestration with Dagster](#7-orchestration-with-dagster)
   - [Tableau Semantic Layer](#8-tableau-semantic-layer)
 - [Implementation Screenshots](#implementation-screenshots)
-- [Limitations and Next Steps](#limitations-and-next-steps)
-  - [Known Issues](#known-issues)
+
 
 ## Overview
 
