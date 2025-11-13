@@ -1,5 +1,6 @@
 # Heart Rate Stream to Data Warehouse
 
+
 ## Table of Contents
 - [Overview](#overview)
 - [Project Components](#project-components)
@@ -79,9 +80,6 @@ To run a custom made script to generate JSON and AVRO files with mock heart rate
 
 `python -m docs.performance-analysis.stream.compare-avro-json`
 
-Comparing the size of the generated files:  
-
-<img src="docs/performance-analysis/stream/img/comparison.png" alt="Compare avro vs json bytes" />
 
 ### 3. Streaming to Kafka
 
@@ -258,3 +256,4 @@ An interactive dashboard was generated that offers insights into the average hea
 <img src="docs/img/dbt-docs-fct-table.png" alt="Generated dbt docs UI page for fct_heart_rates table" />
 
 <img src="docs/img/tableau-data-source.png" alt="Setting up data source in Tableau" />
+
