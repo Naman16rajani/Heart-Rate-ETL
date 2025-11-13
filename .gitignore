@@ -1,5 +1,6 @@
 # warehouse directory to store Snowflake tables for future reference
 warehouse/
+.DS_Store
 
 # client.properties file (credentials for Confluent Cloud kafka cluster access)
 client.properties
