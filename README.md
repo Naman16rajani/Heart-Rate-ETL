@@ -1,9 +1,5 @@
 # Heart Rate Stream to Data Warehouse
 
-<p align="center">
-    <img src="docs/img/heartbeat.gif" alt="Heart rate animation" width="70%" />
-</p>
-
 ## Table of Contents
 - [Overview](#overview)
 - [Project Components](#project-components)
